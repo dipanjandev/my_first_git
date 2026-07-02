@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "This is my first commit. no change here just connect my account to my github page. and there is only one file nothing else"
+git commit -m "Version 2.0 - 2nd time code push."
 git branch -M main
 git remote add origin https://github.com/dipanjandev/my_first_git.git
 git push -u origin main
